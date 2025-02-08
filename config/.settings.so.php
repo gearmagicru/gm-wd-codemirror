@@ -1,0 +1,1 @@
+<?php return 'a:13:{s:5:"theme";s:4:"none";s:15:"styleActiveLine";b:1;s:10:"foldGutter";b:1;s:12:"lineWrapping";b:1;s:11:"lineNumbers";b:1;s:13:"matchBrackets";b:1;s:7:"xmlFold";b:1;s:12:"markdownFold";b:1;s:11:"inddentFold";b:1;s:11:"commentFold";b:1;s:9:"braceFold";b:1;s:8:"foldCode";b:1;s:5:"modes";s:38:"htmlmixed,xml,clike,php,css,javascript";}' ?>
