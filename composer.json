@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-wd-codemirror",
-    "description": "Editor widget \"CodeMirror\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "widget",
-        "codemirror"
-    ],
+    "description": "Widget \"CodeMirror\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "editor"],
     "homepage": "https://apps.gearmagic.ru/component/gm-wd-codemirror",
     "type": "component",
     "license": "MIT",
